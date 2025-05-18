@@ -1,0 +1,5 @@
+# Cargo build
+/target
+
+# MacOS nuisances
+.DS_Store

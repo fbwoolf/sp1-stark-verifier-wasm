@@ -1,0 +1,16 @@
+{
+  "name": "sp1-verifier-wasm-example",
+  "version": "1.0.0",
+  "description": "SP1 STARK Verifier JS example",
+  "main": "index.js",
+  "type": "module",
+   "author": "",
+  "license": "MIT",
+  "scripts": {
+      "serve": "npx http-server -c-1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+      "http-server": "^14.1.1"
+  }
+}
